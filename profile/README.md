@@ -2,7 +2,7 @@
 
 ![Githubstreak Logo](./Githubstreak.jpg)
 
-Welcome to Githubstreak, a haven for developers fueled by the spirit of learning, collaboration, and inspiration. Our community stems from the idea of GitHub streaks, those vibrant green boxes that signify individual and collective coding achievements. Let's dive into the essence of our vision, addressing common questions that illuminate the purpose and spirit of Githubstreak.
+Welcome to Githubstreak, a haven for developers fueled by the spirit of learning, collaboration, building and inspiration. Our community stems from the idea of GitHub streaks, those vibrant green boxes that signify individual and collective coding achievements. Let's dive into the essence of our vision, addressing common questions that illuminate the purpose and spirit of Githubstreak.
 ---
 
 ## 1. What Sets Githubstreak Apart?
